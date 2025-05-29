@@ -31,5 +31,5 @@ This is a simple full-stack project built for a Full Stack Internship task. It c
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/sydney-events-site.git
+git clone https://github.com/S7SxMaDDoX/sydney-events-site.git
 cd sydney-events-site
